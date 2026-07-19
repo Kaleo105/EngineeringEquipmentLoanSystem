@@ -1,0 +1,52 @@
+[
+    {
+        "student_id": "20240015",
+        "student_name": "John Banda",
+        "programme": "Electrical Engineering",
+        "equipment": "Arduino Uno",
+        "quantity": 2,
+        "borrow_date": "2026-05-15",
+        "return_date": "2026-05-20",
+        "returned": false
+    },
+    {
+        "student_id": "20240018",
+        "student_name": "Mary Tembo",
+        "programme": "Electronic Engineering",
+        "equipment": "Multimeter",
+        "quantity": 1,
+        "borrow_date": "2026-05-16",
+        "return_date": "2026-05-21",
+        "returned": true
+    },
+    {
+        "student_id": "20240019",
+        "student_name": "Mercy Chibwe",
+        "programme": "Engineering",
+        "equipment": "Arduino",
+        "quantity": 1,
+        "borrow_date": "2026-07-15",
+        "return_date": "2026-07-18",
+        "returned": true
+    },
+    {
+        "student_id": "20240020",
+        "student_name": "Kangwa Musonda",
+        "programme": "Engineering",
+        "equipment": "Arduino uno",
+        "quantity": 2,
+        "borrow_date": "2026-07-23",
+        "return_date": "2026-07-30",
+        "returned": true
+    },
+    {
+        "student_id": "23456789",
+        "student_name": "dsdfghjkjhgf",
+        "programme": "dfghjkljhgfd",
+        "equipment": "aruino",
+        "quantity": 3,
+        "borrow_date": "2026-07-34",
+        "return_date": "2026-07-34",
+        "returned": false
+    }
+]
